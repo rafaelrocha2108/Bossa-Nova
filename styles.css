@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro:  #FF862A;
+    --laranja-claro:  #3C5A6F;
     --alto-contraste-fundo:  #000000;
     --alto-contraste-texto:  #ffffff;
     --alto-contraste-link:  #ffd700;
@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #6C9A8B;
 }
 
 
@@ -25,13 +25,14 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #A2CFE5;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/-rio-riodejaneiro-ipanema-beach-praia-tropical-brasil-brazil-15295574937-4c8736.jpg');
+
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -39,6 +40,7 @@ section {
     width: 100%;
     height: 606px;
     padding: 40px;
+    
     margin: 0 auto;
 }
 
@@ -82,8 +84,7 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background-color: #F4EBD0;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -106,7 +107,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #A2CFE5;
 
 }
 
